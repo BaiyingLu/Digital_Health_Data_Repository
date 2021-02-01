@@ -7,7 +7,7 @@ We welcome contributions to the DHDR! If your data is too large to upload here, 
 ## Available Datasets:
 | Name | Description |
 | ------ | ------ |
-| Dataset_STEP | This dataset contains time-synced data from 6 wearable sensors and ECG over 4 activities with skin tone recorded  |
+| [Dataset_STEP](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Dataset_STEP) | This dataset contains time-synced data from 6 wearable sensors and ECG over 4 activities with skin tone recorded  |
 |  |  |
 |  |  |
 
