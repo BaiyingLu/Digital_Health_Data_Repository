@@ -21,4 +21,3 @@ Previous studies utilizing this dataset include the [original study tracking phy
 The dataset and documentation is available at the following link: [Link to Stanford Wearables Dataset](http://ipop-data.stanford.edu/wearable_data/Stanford_Wearables_data.tar)
 
 ## Additional Usage Information
-For a full description of the data and the protocol, please visit the [original study](https://www.nature.com/articles/s41746-020-0226-6).
