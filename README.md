@@ -1,5 +1,5 @@
-
 <img src="https://user-images.githubusercontent.com/43549914/106479048-e0c7ac00-6477-11eb-900b-45843e4f9554.jpg" alt="dhdr logo" width="900" id="top"/>
+
 # Digital Health Data Repository (DHDR)
 
 The DHDR (Digital Health Data Repository) is a repository with sample data for use with the DBDP. 
