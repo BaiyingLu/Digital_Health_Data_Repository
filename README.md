@@ -26,5 +26,6 @@ We welcome contributions to the DHDR! If your data is too large to upload here, 
 
 ### *Nutrition*
 ### *Mental Health*
+### *CGM and Wearables Data*
 
 [back to top](#top)
