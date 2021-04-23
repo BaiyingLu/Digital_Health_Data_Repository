@@ -21,7 +21,7 @@ We welcome contributions to the DHDR! If your data is too large to upload here, 
 | Dataset | Description |
 | ------ | ------ | 
 |[MHEALTH](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Dataset_MHEALTH)| Body motion and vital signs recordings for ten volunteers while performing several physical activities. Includes acceleration, rate of turn and magnetic field orientation data as measured at various body positions, and 2-lead ECG measurements. 
-| [ANSI/AAMI EC13 Test Waveforms](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Helath_Data_Repository/tree/main/Dataset_ANSI/AAMI_EC13_Test_Waveforms) | Synthetic and real waveform recordings that can be used for testing a variety of devices that monitor the electrocardiogram. |
+| [ANSI/AAMI EC13 Test Waveforms](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Dataset_ANSI_AAMI_EC13_Test_Waveforms) | Synthetic and real waveform recordings that can be used for testing a variety of devices that monitor the electrocardiogram. |
 
 ## Activity
 | Dataset | Description |
