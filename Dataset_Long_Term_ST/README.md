@@ -18,4 +18,4 @@ Please also include the standard citation for Physionet:
 > Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
 
 ## Dataset
-The dataset and documentation is available at the following link: [Link to MHEALTH Dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
+The dataset and documentation is available at the following link: [Link to Long Term ST Database](https://physionet.org/content/ltstdb/1.0.0/)
