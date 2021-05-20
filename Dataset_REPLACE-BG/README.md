@@ -19,6 +19,7 @@ Other studies utilizing this dataset may be ongoing.
 ## Dataset 
 
 The dataset and documentation is available at the following link: [Link to REPLACE-BG Dataset](https://public.jaeb.org/t1dx/stdy/329)  
-*(Must provide name, email, institution, and purpose to download.)*
+
 
 ## Additional Usage Information
+Must provide name, email, institution, and purpose to download.
