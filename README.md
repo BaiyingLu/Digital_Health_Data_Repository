@@ -26,7 +26,15 @@ We welcome contributions to the DHDR! If your data is too large to upload here, 
 [Long Term ST Database](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Dataset_Long_Term_ST) | 86 lengthy ECG recordings of 80 human subjects, chosen to exhibit a variety of events of ST segment changes, including ischemic ST episodes, axis-related non-ischemic ST episodes, episodes of slow ST level drift, and episodes containing mixtures of these phenomena. |
 [MIT-BIH Arrythmia Database](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Dataset_MIT_BIH_Arrhythmia) | 48 half-hour excerpts of two-channel ambulatory ECG recordings, obtained from 47 subjects.
 
+### Continuous Glucose Monitoring (CGM)
+| Dataset | Description |
+| ------ | ------ | 
+|[REPLACE-BG](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Dataset_REPLACE-BG)|Data from a 26-week randomized clinical trial of participants who have had T1D for at least one year.
+|[JCHR Diabetes](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Dataset_Jaeb-Diabetes)|Diabetes-related datasets and their corresponding protocol from 2010 to 2020. *(Refer to T1D Exchange below for past protocol. Newly added datasets include ReCGM, CITY, WISDM, SENCE, and JDRF.)*
+|[T1D Exchange](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Datasets_T1D-Exchange)|Type 1 diabetes datasets available for download from 11 studies ranging from 2010 to 2017. *(Note: Some protocol may be outdated. Refer to JCHR Database above for updated information.)*
+
 ## Activity
+### Wearables Data
 | Dataset | Description |
 | ------ | ------ |
 | [Stanford Wearables](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/tree/main/Dataset_StanfordWearables)|HR, accelerometer, steps, activity, skin temperature, calories, and SpO<sub>2</sub> data from 7 wearables|
@@ -35,6 +43,5 @@ We welcome contributions to the DHDR! If your data is too large to upload here, 
 
 ### *Nutrition*
 ### *Mental Health*
-### *CGM and Wearables Data*
 
 [back to top](#top)
