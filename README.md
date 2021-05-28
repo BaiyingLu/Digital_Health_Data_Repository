@@ -9,7 +9,7 @@ We welcome contributions to the DHDR! If your data is too large to upload here, 
 # Available Datasets
 * [Cardiovascular](#cardiovascular)
 * [Activity](#activity)
-* [Mental Health](#mental health)
+* [Mental Health](#mental-health)
 * [Nutrition](#coming-soon)
 
 
