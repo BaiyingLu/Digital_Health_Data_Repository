@@ -19,3 +19,9 @@ Please also include the standard citation for Physionet:
 
 ## Dataset
 The dataset and documentation is available at the following link: [Link to Long Term ST Database](https://physionet.org/content/ltstdb/1.0.0/)
+
+## Useful DBDP Modules
+The DBDP provides code to help analyze this dataset: 
+
+* [Pre-processing module](https://github.com/DigitalBiomarkerDiscoveryPipeline/Pre-process)
+* [Heart Rate Variability module](https://github.com/DigitalBiomarkerDiscoveryPipeline/Heart-Rate-Variability)
