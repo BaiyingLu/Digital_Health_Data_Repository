@@ -16,3 +16,11 @@ Please also cite the original study for this dataset. As requested by the origin
 
 ## Dataset
 The dataset and documentation is available at the following link: [Link to MHEALTH Dataset](https://archive.ics.uci.edu/ml/datasets/MHEALTH+Dataset)
+
+## Useful DBDP Modules
+The DBDP provides code to help analyze this dataset: 
+
+* [Pre-processing module](https://github.com/DigitalBiomarkerDiscoveryPipeline/Pre-process)
+* [Heart Rate Variability module](https://github.com/DigitalBiomarkerDiscoveryPipeline/Heart-Rate-Variability)
+* [Human Activity Recognition](https://github.com/DigitalBiomarkerDiscoveryPipeline/Human-Activity-Recognition)
+* [wearablecompute](https://github.com/DigitalBiomarkerDiscoveryPipeline/wearablecompute)

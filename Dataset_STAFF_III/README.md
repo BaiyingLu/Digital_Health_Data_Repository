@@ -19,3 +19,9 @@ The dataset and documentation is available at the following link: [Link to STAFF
 
 ## Useful DBDP Modules
 The DBDP provides code to help analyze this dataset in the [Heart Rate Variability module](https://github.com/DigitalBiomarkerDiscoveryPipeline/Heart-Rate-Variability)
+
+## Useful DBDP Modules
+The DBDP provides code to help analyze this dataset: 
+
+* [Pre-processing module](https://github.com/DigitalBiomarkerDiscoveryPipeline/Pre-process)
+* [Heart Rate Variability module](https://github.com/DigitalBiomarkerDiscoveryPipeline/Heart-Rate-Variability)
