@@ -3,6 +3,10 @@
 ## Description of Dataset
 This dataset was collected as part of the following study: [REPLACE-BG: A Randomized Trial Comparing Continuous Glucose Monitoring With and Without Routine Blood Glucose Monitoring in Adults With Well-Controlled Type 1 Diabetes](https://care.diabetesjournals.org/content/40/4/538).
 
+## Analyzing this Dataset
+[cgmquantify](https://github.com/DigitalBiomarkerDiscoveryPipeline/cgmquantify) is a Python package provided by the DBDP for
+analyzing glucose and glucose variability. The package is also [available in R](https://cran.r-project.org/web/packages/cgmquantify/index.html).
+
 ## Citing this Dataset
 Please cite the DBDP and the original study this dataset was developed for:
 
