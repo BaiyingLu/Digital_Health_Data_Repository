@@ -4,6 +4,10 @@
 [T1D Exchange](https://t1dexchange.org) is "a non-profit organization focused on accelerating therapies and improving care for type 1 diabetes individuals." The T1D Exchange Registry is a research study and data platform for individuals with type 1 diabetes.  
 Various study protocol and their associated datasets are publicly available and can be accessed through the [Jaeb Center for Health Research](https://public.jaeb.org/t1dx/stdy).
 
+## Analyzing this Dataset
+[cgmquantify](https://github.com/DigitalBiomarkerDiscoveryPipeline/cgmquantify) is a Python package provided by the DBDP for
+analyzing glucose and glucose variability. The package is also [available in R](https://cran.r-project.org/web/packages/cgmquantify/index.html).
+
 ## Citing this Dataset
 Please cite the DBDP and the original study this dataset was developed for:
 

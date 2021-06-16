@@ -3,6 +3,10 @@
 ## Description of Dataset
 Diabetes-related datasets and their corresponding protocol from 2010 to 2020 are available for download as zip files through [The Jaeb Center for Health Research](https://public.jaeb.org/datasets/diabetes).
 
+## Analyzing this Dataset
+[cgmquantify](https://github.com/DigitalBiomarkerDiscoveryPipeline/cgmquantify) is a Python package provided by the DBDP for
+analyzing glucose and glucose variability. The package is also [available in R](https://cran.r-project.org/web/packages/cgmquantify/index.html).
+
 ## Citing this Dataset
 Please cite the DBDP and the original study this dataset was developed for:
 
