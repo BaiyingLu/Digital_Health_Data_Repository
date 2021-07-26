@@ -9,6 +9,9 @@ Each file contains an EEG record for one subject. Each TXT file contains a colum
 Please cite the original study:
 > Prof. N.N. Gorbachevskaya, Ph.D. S.V. Borisov. EEG of healthy adolescents and adolescents with symptoms of schizophrenia. (http://brain.bio.msu.ru/eeg_schizophrenia.htm).
 
+Please also cite the DBDP if you are using any module from Digital Biomarker Discovery Pipeline:
+
+> Bent, B., Wang, K., Grzesiak, E., Jiang, C., Qi, Y., Jiang, Y., Cho, P., Zingler, K., Ogbeide, F.I., Zhao, A., Runge, R., Sim, I., Dunn, J. (2020). The Digital Biomarker      Discovery Pipeline: An open source software platform for the development of digital biomarkers using mHealth and wearables data. Journal of Clinical and Translational Science, 1-28. doi:10.1017/cts.2020.511 ([Link to Open Access Article](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/digital-biomarker-discovery-pipeline-an-open-source-software-platform-for-the-development-of-digital-biomarkers-using-mhealth-and-wearables-data/A6696CEF138247077B470F4800090E63))
 ## Previous Studies utilizing Dataset
 
 Previous studies utilizing this dataset include the [Fractal-based classification of electroencephalography (EEG) signals in healthy adolescents and adolescents with symptoms of schizophrenia.](https://pubmed.ncbi.nlm.nih.gov/30829625/).
@@ -17,4 +20,10 @@ Previous studies utilizing this dataset include the [Fractal-based classificatio
 
 The dataset and documentation is available at the following link: [Link to EEG of healthy adolescents and adolescents with symptoms of schizophrenia Dataset](http://brain.bio.msu.ru/eeg_schizophrenia.htm)
 
-## Additional Usage Information
+## Useful DBDP Modules
+The DBDP provides code to help analyze this dataset:
+
+* [Pre-processing module](https://github.com/DigitalBiomarkerDiscoveryPipeline/Pre-process)
+* [Adolescence mentalhealth module](https://github.com/Big-Ideas-Lab/DBDP/tree/master/DigitalBiomarkers-MentalHealth_Adolescence)
+* [Human Activity Recognition](https://github.com/DigitalBiomarkerDiscoveryPipeline/Human-Activity-Recognition)
+* [wearablecompute](https://github.com/DigitalBiomarkerDiscoveryPipeline/wearablecompute)
