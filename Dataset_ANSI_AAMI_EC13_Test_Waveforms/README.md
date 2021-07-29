@@ -14,3 +14,9 @@ Please also cite the original study for this dataset:
 
 ## Dataset
 The dataset and documentation is available at the following link: [Link to ANSI/AAMI EC13 Test](https://physionet.org/content/aami-ec13/1.0.0/)
+
+## Useful DBDP Modules
+The DBDP provides code to help analyze this dataset: 
+
+* [Pre-processing module](https://github.com/DigitalBiomarkerDiscoveryPipeline/Pre-process)
+* [Heart Rate Variability module](https://github.com/DigitalBiomarkerDiscoveryPipeline/Heart-Rate-Variability)
